@@ -37,12 +37,7 @@ Search ID: Users can search for a ID by ID, Name, or Age using the "Search" butt
 View/Search Information: The application displays all records in a grid format, showing the ID, name, and age.
 
 #### Schema Diagram:
-
-
-
-
-
-
+<img width="451" alt="1" src="https://github.com/user-attachments/assets/a125e32b-5008-4570-b1f3-7fecdb1cf5a2">
 
 ## Set Up SQL Server Database:
 Open SQL Server Management Studio (SSMS) and connect to your SQL Server instance.
@@ -93,26 +88,16 @@ string connectionString = "Data Source=YOUR_SERVER_NAME;Initial Catalog=StudentD
 Replace (YOUR_SERVER_NAME) with the actual name of your SQL Server (you can find this in SSMS).
 ## Code Implementation:
 #### Insert data function sample:
-
-
-
+<img width="698" alt="2" src="https://github.com/user-attachments/assets/d18346be-6669-484b-b47c-35b9be2e695e">
 #### Update data function sample:
-
-
-
-
+<img width="698" alt="3" src="https://github.com/user-attachments/assets/747f97f0-ec92-49ff-b220-a3d4e1307b97">
 #### Delete Operation:
-
-
-
-
+<img width="701" alt="4" src="https://github.com/user-attachments/assets/ecb5f1df-6c31-4b24-ba98-25af435ec8f5">
 #### Search Operation:
-
-
+<img width="701" alt="5" src="https://github.com/user-attachments/assets/33b56a5f-c86a-4c2a-b01c-f839542e689a">
 
 ## Screenshots
-
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+<img width="645" alt="6" src="https://github.com/user-attachments/assets/cf1ff629-8eb0-4d3c-b5ae-ef9f2223f2db">
 
 
 ## Event Handling
